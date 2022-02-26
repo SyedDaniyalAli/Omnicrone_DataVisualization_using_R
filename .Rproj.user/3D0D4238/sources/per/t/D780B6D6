@@ -1,0 +1,24 @@
+{
+    "id": "D780B6D6",
+    "path": "~/OmnicroneAssignment3/R/covid-cases-omicron.csv",
+    "project_path": "R/covid-cases-omicron.csv",
+    "type": "text",
+    "hash": "2955097913",
+    "contents": "",
+    "dirty": false,
+    "created": 1643185560792.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1641651079,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1641651079,
+    "read_only": false,
+    "read_only_alternatives": []
+}
